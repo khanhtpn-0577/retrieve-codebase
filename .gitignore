@@ -1,0 +1,7 @@
+*.json
+*.sh
+*.
+data
+*.pyc
+__pycache__/
+.env
